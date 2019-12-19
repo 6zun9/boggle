@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/boggle/static/css/main.abb548e0.chunk.css",
+    "main.js": "/boggle/static/js/main.7b0ebd3b.chunk.js",
+    "main.js.map": "/boggle/static/js/main.7b0ebd3b.chunk.js.map",
+    "runtime-main.js": "/boggle/static/js/runtime-main.6db15363.js",
+    "runtime-main.js.map": "/boggle/static/js/runtime-main.6db15363.js.map",
+    "static/css/2.bea6f0b1.chunk.css": "/boggle/static/css/2.bea6f0b1.chunk.css",
+    "static/js/2.722a989a.chunk.js": "/boggle/static/js/2.722a989a.chunk.js",
+    "static/js/2.722a989a.chunk.js.map": "/boggle/static/js/2.722a989a.chunk.js.map",
+    "index.html": "/boggle/index.html",
+    "precache-manifest.c4b45e4f73d2e931b6fb89d818607b5c.js": "/boggle/precache-manifest.c4b45e4f73d2e931b6fb89d818607b5c.js",
+    "service-worker.js": "/boggle/service-worker.js",
+    "static/css/2.bea6f0b1.chunk.css.map": "/boggle/static/css/2.bea6f0b1.chunk.css.map",
+    "static/css/main.abb548e0.chunk.css.map": "/boggle/static/css/main.abb548e0.chunk.css.map",
+    "static/js/2.722a989a.chunk.js.LICENSE": "/boggle/static/js/2.722a989a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6db15363.js",
+    "static/css/2.bea6f0b1.chunk.css",
+    "static/js/2.722a989a.chunk.js",
+    "static/css/main.abb548e0.chunk.css",
+    "static/js/main.7b0ebd3b.chunk.js"
+  ]
+}
